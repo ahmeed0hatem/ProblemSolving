@@ -1,4 +1,4 @@
-// Finbbonachi 
+// Fibbonachi 
 #include "iostream"
 using namespace std;
 
