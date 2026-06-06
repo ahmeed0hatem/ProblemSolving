@@ -4,7 +4,6 @@ using namespace std;
 
 
 int main(){
-    // Ahmed Hatem
     int seq;
     cin >> seq;
     int answer;
